@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+tb_vision.db
+.ipynb_checkpoints/
+*.ipynb
+drive/
+.config/
+sample_data/
